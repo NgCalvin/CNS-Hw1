@@ -9,3 +9,4 @@ Waiting
 ## Part 2
 
 Log File is captured by ethereal when running the program assig1secret.
+Open it by Wireshark or other packet sniffer
